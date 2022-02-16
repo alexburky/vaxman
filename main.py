@@ -1,5 +1,5 @@
 # ----------------------------------------------------------------------------------------------------------------------
-# Vax-Man by Alex Burky (https://github.com/alexburky)
+# Vax-Man by Alex Burky (https://github.com/alexburky/vaxman)
 #
 # - Developed for the Electronic Arts Software Engineering Virtual Experience Program
 # - Adapted version of Pacman in Python using PyGame, from https://github.com/hbokmann/Pacman
